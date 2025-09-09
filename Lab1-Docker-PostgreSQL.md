@@ -104,7 +104,8 @@ docker inspect postgres
 
 **บันทึกผลการทดลอง - Step 1:**
 ```
-ใส่ Screenshot ของผลการรัน docker images ที่นี่
+<img width="941" height="475" alt="image" src="https://github.com/user-attachments/assets/aa8c432d-1f14-4c75-bfc6-9021a6211800" />
+
 ```
 
 ### Step 2: Create Docker Volume for Data Persistence
@@ -127,7 +128,7 @@ docker volume create postgres-config
 
 **บันทึกผลการทดลอง - Step 2:**
 ```
-ใส่ Screenshot ของผลการรัน docker volume ls และ docker volume inspect postgres-data ที่นี่
+<img width="540" height="506" alt="image" src="https://github.com/user-attachments/assets/2ba074fe-2ab3-4d3b-8165-f3172b9ec3b2" />
 ```
 
 ### Step 3: Create PostgreSQL Container with Volume
